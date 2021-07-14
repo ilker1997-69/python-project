@@ -1,0 +1,1 @@
+Pull komutu hem fetch hem de merge komutunu işlevini görür.
